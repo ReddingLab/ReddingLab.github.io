@@ -1,0 +1,43 @@
+title: Redding Lab
+author:
+  name: Sy Redding
+  email:
+description: > # this means to ignore newlines until "show_excerpts:"
+  Website for the Redding Lab at the University of Massachusetts Medical School.
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    github:  ReddingLab
+    # youtube: jekyll
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+  - People.md
+  - Publications.md
+  - Contact.md
+
+# Build settings
+theme: minima
+
+# to add google analytics uncomment below
+# google_analytics: UA-NNNNNNNN-N
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+collections:
+        posts:
+                output: false
+        people:
+                output: true
+        publications:
+                output: true
