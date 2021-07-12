@@ -10,11 +10,11 @@ permalink: /Contact/
             <b>Redding Lab</b> <br>
             Department of Biochemistry and Molecular Pharmacology  <br>
             University of Massachusetts Medical School <br>
-            364 Plantation St. LRBXXX <br>
+            364 Plantation St. LRB926 <br>
             Worcester, MA 01605 <br><br>
         </div>
         <div class="col-md-5">
-            <b>email</b>: sredding (at) xxx (dot) edu <br>
+            <b>email</b>: Sy.Redding (at) umassmed (dot) edu <br>
             <b>tel</b>: XXX XXX XXXX <br>
             <br>
         </div>
