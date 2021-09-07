@@ -15,7 +15,8 @@ permalink: /Contact/
         </div>
         <div class="col-md-5">
             <b>email</b>: Sy (dot) Redding (at) umassmed (dot) edu <br>
-            <b>tel</b>: 508 865 8989 <br>
+            <b>office tel</b>: 774-455-6635 <br>
+	    <b>Lab tel</b>: 508-856-4502 or 508-856-4503 <br>
             <br>
         </div>
     </div>
