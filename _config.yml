@@ -3,7 +3,7 @@ author:
   name: Sy Redding
   email:
 description: > # this means to ignore newlines until "show_excerpts:"
-  Website for the Redding Lab at the University of Massachusetts Medical School.
+  Website for the Redding Lab at the University of Massachusetts Chan Medical School.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

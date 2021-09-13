@@ -29,8 +29,19 @@ permalink: /People/
 
 
 <div class="alert">
-  <b>The Redding Lab is looking to hire at the Research Specialist 
-  and Technician levels. Contact the lab for more information</b>
+  <b>The Redding Lab is looking to hire at several levels
+      <ul>
+      <li> <a href="https://www.ummsjobs.com/job/6929/">Research Associate </a> </li>
+      <li> <a href="https://www.ummsjobs.com/job/6928/">Research Associate I </a> </li>
+      <li> <a href="https://www.ummsjobs.com/job/6927/">Senior Research Associate </a></li>
+      </ul>
+  </b>
+</div>
+
+<div class="alert">
+  <b>The Redding Lab is looking to hire at the postdoctoral level for a project involving
+   DNA condensation. For more information, send inquiry and C.V. to Sy dot Redding at umassmed dot edu. 
+  </b>
 </div>
 
 <h2>Redding Lab members</h2>
