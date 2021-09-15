@@ -40,7 +40,7 @@ permalink: /People/
 
 <div class="alert">
   <b>The Redding Lab is looking to hire at the postdoctoral level for a project involving
-   DNA condensation. For more information, send inquiry and C.V. to Sy dot Redding at umassmed dot edu. 
+   DNA condensation. <a href="https://www.postdocjobs.com/posting/7085356"> See the advertisement here </a> 
   </b>
 </div>
 
