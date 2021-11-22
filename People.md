@@ -27,20 +27,10 @@ permalink: /People/
 }
 </style>
 
-
 <div class="alert">
-  <b>The Redding Lab is looking to hire at several levels
-      <ul>
-      <li> <a href="https://www.ummsjobs.com/job/6929/">Research Associate </a> </li>
-      <li> <a href="https://www.ummsjobs.com/job/6928/">Research Associate I </a> </li>
-      <li> <a href="https://www.ummsjobs.com/job/6927/">Senior Research Associate </a></li>
-      </ul>
-  </b>
-</div>
-
-<div class="alert">
-  <b>The Redding Lab is looking to hire at the postdoctoral level for a project involving
-   DNA condensation. <a href="https://www.postdocjobs.com/posting/7085356"> See the advertisement here </a> 
+  <b>The Redding Lab is looking to hire at the postdoctoral level for a number projects investigating 
+  protein-chromatin interactions and genome organization. If interested send an inquiry and C.V. to 
+  sy dot redding at umassmed dot edu
   </b>
 </div>
 
