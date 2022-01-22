@@ -46,19 +46,7 @@ permalink: /People/
         <div><h5>{{ people.name | markdownify }}</h5>
         {{people.position}} <br>
         <em>{{people.email}}</em> <br>
-        {% if people.website %}
-            <a style="overflow-wrap: break-word;" href= "{{people.website}}">{{people.website}}</a> <br>
-        {% endif %}
-        {% if people.twitter %}
-            <a href="http://twitter.com"><img class="inline-block mem-icon" src="/static/img/twitter2_logo.svg"></a>
-            <a href= "http://twitter.com/{{member.twitter}}"> @{{people.twitter}} </a> <br>
-        {% endif %}
-        {% if people.github %}
-            <a href="http://github.com"><img class="inline-bloc mem-icon" src="/static/img/github_logo.svg"></a>
-            <a href= "http://github.com/{{member.github}}"> {{people.github}} </a> <br>
-        {% endif %}
         </div>
     </div>
 </div>
-
 {% endfor %}
