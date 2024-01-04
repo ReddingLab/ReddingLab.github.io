@@ -1,7 +1,8 @@
 ---
 level: 0
 name: Sy Redding
-image: /static/img/people/redding.jpg #365 x 365 pixels, 72 dpi
-position: 
+image: /static/img/people/redding.jpg 
+position_id: PI
+status: current
 email: 
 ---

@@ -1,0 +1,1 @@
+find ./ -iname "*.md" -type f -exec sh -c 'pandoc "${0}" -o "./pdfs/$(basename ${0%.md}.pdf)"' {} \;

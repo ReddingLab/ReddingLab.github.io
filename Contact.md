@@ -8,8 +8,8 @@ permalink: /Contact/
     <div class="row">
         <div class="col-md-7">
             <b>Redding Lab</b> <br>
-            Department of Biochemistry and Molecular Pharmacology  <br>
-            University of Massachusetts Medical School <br>
+            Department of Biochemistry and Molecular Biotechnology  <br>
+            University of Massachusetts Chan Medical School <br>
             364 Plantation St. LRB926 <br>
             Worcester, MA 01605 <br><br>
         </div>
@@ -21,11 +21,18 @@ permalink: /Contact/
         </div>
     </div>
 </div>
+<hr>
+<p align="justify">
+UMass Chan Medical School acknowledges that its campus is located on lands that were once part of the original homeland of the Nipmuc people. We denounce the violence that stripped these original stewards of lands that were their ancestral home and denied their descendants the opportunity for an authentic connection to it. In making this acknowledgement, we announce our intention to listen to and follow the lead of our Indigenous neighbors and work together to create new legacies of equity and respect.
+<p>
+<hr>
 <div>
 <img class="img-fluid" src="/static/img/contact/drops.jpg" alt="xx">
 </div>
 
-<center>
+<br>
+
+<left>
 This website is <a href="https://github.com/ReddingLab/ReddingLab.github.io">open source</a>
-</center>
+</left>
 

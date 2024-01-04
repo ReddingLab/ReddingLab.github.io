@@ -21,7 +21,9 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
   - People.md
+  #- Research.md
   - Publications.md
+  #- Protocols.md
   - Contact.md
 
 # Build settings
@@ -35,8 +37,8 @@ plugins:
  - jekyll-seo-tag
 
 collections:
-        posts:
-                output: false
+        protocols:
+                output: true
         people:
                 output: true
         publications:
