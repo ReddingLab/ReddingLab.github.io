@@ -5,6 +5,6 @@ position: Research Associate
 position_id: associate
 status: current
 email: hastings-dot-boampong-at-umassmed-dot-edu
-project: Protecting our freedom 
+project: Interactions between HP1 and chromatin
 education:
 ---
