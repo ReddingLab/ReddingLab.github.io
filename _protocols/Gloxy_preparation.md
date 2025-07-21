@@ -1,8 +1,7 @@
 ---
 layout: protocol
-title: Preparation of Glucose Oxidase/Catalase
-catagory: reagent 
-pdf: /static/img/protocols/Gloxy_preparation.pdf
+title: Preparation of Glucose Oxidase Catalase
+category: reagent 
 # author: Luke Strauskulage
 ---
 
@@ -10,59 +9,39 @@ Protocol modified from *Nikon Super Resolution Microscope N-STORM Sample
 Preparation Manual* (PDF found at
 <http://www.mvi-inc.com/wp-content/uploads/N-STORM+Protocol.pdf>)
 
-*Purpose*: use 2uL/mL to remove free radicals produced by exciting
-fluors, which could shear DNA if left in solution
 
-*Materials*:
+| T50 Buffer   | Final Concentration     |
+| ---------------------:| -----------------------:|
+| Tris-HCl, pH 8-7.5    | 10mM                    |
+| NaCl                  | 50 mM                   |
 
--   **T50 Buffer** (Cold Spring Harbor) – 10mM Tris-Cl (pH=8.0), 50mM
-    NaCl
 
-    -   In practice, using Tris-Cl, pH=7.5 still works
+MATERIALS
+---------
 
--   **Catalase** – solid (stored @ -20°C)
+**Catalase** – solid (stored @ -20°C)
 
--   **Glucose Oxidase** – lyophilized powder (stored @ -20°C)
+**Glucose Oxidase** – lyophilized powder (stored @ -20°C)
 
-*Overview*:
+Protocol
+----
 
-1)  create stocks of glucose oxidase and catalase
+1. Suspend catalase at 17 mg/mL in T50 buffer + 50% glycerol at 4C
 
-2)  combine to create GLOX solution
+2. Suspend 28mg of Glucose Oxidase in 400uL of T50 buffer at 4C and vortex.
 
-3)  incubate at 4°C
+3. Add 100uL of Catalase solution to 400uL of suspended glucose oxidase
+   
+4. Incubate at 4C for 20 minutes 
 
-4)  centrifuge and remove precipitate
+5. Spin down precipitate at 14,000 rpm in a table-top centrifuge for 5 minutes at 4C
 
-5)  filter and store
-
-*Protocol*:
-
--   Suspend catalase at 17 mg/mL in T50 buffer with 50% glycerol at 4°C
-
-    -   17mg + 625uL 80% glycerol + 325uL T50 buffer
-
-    -   If using 1x T50 buffer, this will be diluted, but that does not
-        seem to affect GLOX
-
--   Suspend 28mg of Glucose Oxidase in 400uL of T50 buffer at 4°C (vortex)
-
--   Add 100uL of Catalase solution to re-suspended glucose oxidase
-    (500uL total)
-
--   Incubate at 4°C for 20 minutes (catalase activates glucose oxidase)
-
--   Spin down precipitate at 14,000 rpm in a table-top centrifuge for 5
-    minutes at 4°C
-
-    -   If no pellet is visible after centrifuging: flash-freeze the
-        500uL GLOX solution, let thaw, and then centrifuge again to
+6. If no pellet is visible after centrifuging: flash-freeze the
+        Glucose Oxidase Catalase solution, thaw on ice, and then centrifuge again to
         pellet precipitate
 
--   Filter the supernatant with a 0.22um syringe filter
+7. Filter the supernatant with a 0.22um syringe filter
 
--   Store @ 4°C if using immediately (manual says GLOX is good at 4°C
-    for two weeks) flash freeze and store long-term stocks of GLOX at
-    -80°C
-
+8. If using immediately, Store at 4C solution is good for 2 weeks. Long term stocks should be 
+snap frozen in liquid nitrogen and stored at -80C.
 

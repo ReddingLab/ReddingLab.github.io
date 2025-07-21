@@ -1,13 +1,14 @@
 ---
 layout: protocol
 title: Title 
+# current categories are Assays, DNA, Reagents, Proteins
 catagory: DNA 
-pdf: /static/img/protocols/title.pdf
 # author: your name 
 ---
 
 
 ### Materials
+
 -   reagent 1 (partnumber and/or location in lab)
 -   reagent 2 (partnumber and/or location in lab)
 -   reagent 3 (partnumber and/or location in lab)
@@ -25,6 +26,6 @@ pdf: /static/img/protocols/title.pdf
 
 ### Protocol
 
-1. kjsdkjhsd
-2. sdflksd
-3. sddsfkl;sd
+1. Step 1
+2. Step 2
+3. Step 3

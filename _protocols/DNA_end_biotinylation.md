@@ -1,8 +1,7 @@
 ---
 layout: protocol
 title: DNA end biotinylation for optical tweezers experiments  
-catagory: DNA 
-pdf: /static/img/protocols/title.pdf
+category: DNA 
 # author: your name 
 ---
 

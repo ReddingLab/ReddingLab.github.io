@@ -34,6 +34,13 @@ permalink: /People/
 [//]: #  </b>
 [//]: # </div>"
 
+
+
+<hr>
+<div>
+<img class="img-fluid" src="/static/img/people/group_2025.jpeg" alt="xx">
+</div>
+
 <h2>Current Redding Lab members</h2>
 
 [comment]: <> (loop over postdocs)

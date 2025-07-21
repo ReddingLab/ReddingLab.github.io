@@ -1,6 +1,6 @@
 ---
 name: Christopher Woodilla
-image: /static/img/people/chris_woodilla_2.jpeg
+image: /static/img/people/Chris_3.jpg
 position_id: gradstudent
 position: Graduate Student
 status: current
